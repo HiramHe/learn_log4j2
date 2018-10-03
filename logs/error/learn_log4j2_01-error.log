@@ -1,0 +1,2 @@
+|2018-10-03 20:23:24.961|main|8080|learn_log4j2_01|cn.edu.hust.learn_log4j2_01|main|FATAL||###+-###|##+-##|##+-##||fatal msg
+|2018-10-03 20:23:24.997|main|8080|learn_log4j2_01|cn.edu.hust.learn_log4j2_01|main|ERROR||###+-###|##+-##|##+-##||error msg
